@@ -4,5 +4,5 @@ no info given :)
 $ git clone https://github.com/rodricbr/doom/
 $ cd doom/;ls
 $ chmod +x doom.sh
-$ ./doom.sh <string>
+$ sudo ./doom.sh <string>
 ```
